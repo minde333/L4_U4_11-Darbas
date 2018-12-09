@@ -1,0 +1,29 @@
+Žodžiai ir jų kiekis.
+1. . Žodis: neighbor | Pasikartojimai: 2 | Ilgis: 8
+
+2. . Žodis: pinpoint | Pasikartojimai: 0 | Ilgis: 8
+
+3. . Žodis: trouble | Pasikartojimai: 0 | Ilgis: 7
+
+4. . Žodis: walking | Pasikartojimai: 0 | Ilgis: 7
+
+5. . Žodis: missile | Pasikartojimai: 0 | Ilgis: 7
+
+6. . Žodis: easily | Pasikartojimai: 0 | Ilgis: 6
+
+7. . Žodis: person | Pasikartojimai: 0 | Ilgis: 6
+
+8. . Žodis: across | Pasikartojimai: 1 | Ilgis: 6
+
+9. . Žodis: street | Pasikartojimai: 0 | Ilgis: 6
+
+10. . Žodis: about | Pasikartojimai: 0 | Ilgis: 5
+
+
+Trumpiausias pirmo teksto sakinys: We can fire a missile. Across the, world with pinpoint.
+  Eilutė:4
+  Eilutės ilgis:55
+
+Trumpiausias antro teksto sakinys: We can fire a missile. Across the, world with pinpoint.
+  Eilutė:4
+  Eilutės ilgis:55

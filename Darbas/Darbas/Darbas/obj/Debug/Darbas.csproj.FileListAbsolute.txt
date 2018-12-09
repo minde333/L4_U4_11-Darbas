@@ -1,0 +1,15 @@
+D:\Darbalaukis\Darbas\Darbas\bin\Debug\Darbas.exe.config
+D:\Darbalaukis\Darbas\Darbas\bin\Debug\Darbas.exe
+D:\Darbalaukis\Darbas\Darbas\bin\Debug\Darbas.pdb
+D:\Darbalaukis\Darbas\Darbas\obj\Debug\Darbas.csprojAssemblyReference.cache
+D:\Darbalaukis\Darbas\Darbas\obj\Debug\Darbas.csproj.CoreCompileInputs.cache
+D:\Darbalaukis\Darbas\Darbas\obj\Debug\Darbas.exe
+D:\Darbalaukis\Darbas\Darbas\obj\Debug\Darbas.pdb
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Darbas.exe.config
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Darbas.exe
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Darbas.pdb
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\obj\Debug\Darbas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\obj\Debug\Darbas.exe
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\obj\Debug\Darbas.pdb
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Knyga1.txt
+C:\Users\Vartotojas\Desktop\Darbas\Darbas\Darbas\bin\Debug\Knyga2.txt
